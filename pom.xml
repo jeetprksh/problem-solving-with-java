@@ -10,6 +10,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>balanced-parentheses</module>
+    <module>all-subsets</module>
   </modules>
 
   <name>problem-solving-with-java</name>
